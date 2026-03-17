@@ -51,7 +51,7 @@ Access the BIOS by tapping `F10` (or `Esc` then `F10`) during startup.
     * `WhateverGreen.kext` (For HD 530 support)
     * `AppleALC.kext` (Layout ID `11` or `15` for ALC221)
     * `IntelMausi.kext` (For the I219-LM Ethernet)
-    * `USBInjectAll.kext` (Temporary—replace with a custom map later)
+    * `USBMap.kext` (replace with a your map later)
 
 ## 🖱 Touchscreen & USB
 The touch functionality on this AiO usually interfaces via an internal USB header. 
