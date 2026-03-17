@@ -3,7 +3,7 @@
 > **⚠️ STATUS: UNTESTED / WORK IN PROGRESS**
 > This EFI is configured specifically for the HP ProOne 600 G2 (21.5-in Touch) with the Intel Core i5-6500. While based on the Skylake desktop architecture, it has not been verified on this specific unit. **Use at your own risk.**
 
-> **❗Note**
+> **❗Note :**
 > Please Use Offline Installer Because SomeTimes it Doesn't Work
 
 <div align="center">
